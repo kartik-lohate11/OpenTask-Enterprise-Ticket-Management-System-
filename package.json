@@ -1,0 +1,34 @@
+{
+  "name": "opentask-react-complete",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "OpenTask - Complete React Application with All Pages",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.11",
+    "axios": "^1.13.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.0",
+    "react-toastify": "^11.0.5",
+    "recharts": "^3.7.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.3.0",
+    "vite": "^5.0.0"
+  },
+  "keywords": [
+    "react",
+    "tailwind",
+    "task-management"
+  ],
+  "author": "",
+  "license": "MIT"
+}
